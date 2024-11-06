@@ -61,3 +61,5 @@ function pub.apply_to_config(config)
 		action = pub.run(),
 	})
 end
+
+return pub
